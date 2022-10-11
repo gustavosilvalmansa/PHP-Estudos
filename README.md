@@ -1,4 +1,4 @@
-# PHP7-Estudos
+# PHP7 - Estudos
 Estudos sobre PHP 7<br />
 
 Conteudos contidos neste repositório:
