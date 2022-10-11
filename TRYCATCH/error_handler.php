@@ -1,5 +1,4 @@
 <?php
-
 function error_handler($code,$message, $file, $line){
 	
 	echo json_encode(array(
