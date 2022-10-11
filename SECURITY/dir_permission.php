@@ -17,6 +17,7 @@ if (!is_dir($pasta)) mkdir($pasta, $permissao);
 
 775 [Owner, Groups, Guests]
 */
+
 echo "Diretório criado com sucesso";
 
 ?>
