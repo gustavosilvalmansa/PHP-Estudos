@@ -30,7 +30,7 @@ class LojaDao extends Conexao{
 		
 	}
 		public function updateLoja(int $id, LojaModel $loja):void{
-		$stmt = $this->pdo->prepare('UPDATE loja SET nome = :nome, telefone = :telefone, endereco = :enderedo where id = :id');
+		$stmt = $this->pdo->prepare('UPDATE loja SET nome = :nome, telefone = :telefone, endereco = :endereco where id = :id');
 		$stmt->execute([
 			"id"=>$id,
 			"nome"=>$loja->getNome(),
