@@ -12,7 +12,6 @@ foreach($images as $img){
 		$info["url"] = "http://localhost/PHP_MYSQLI/DIR_AND_FILES/".str_replace("\\", "/",$filename);
 		array_push($data, $info);
 		
-
 	}
 }
 		echo json_encode($data);
