@@ -42,12 +42,12 @@ final class LojaController{ // Ngm herda
 		$data = $request->getParsedBody();
 		
 		$lojaDao = new LojaDao();
-		$loja = new LojaModel();
+		$loja = new LojaModel;
 		$loja->setNome($data['nome'])->setEndereco($data['endereco'])->setTelefone($data['telefone']);   
 		$lojaDao->updateLoja($data['id'], $loja);
 		
 		$response = $response->withJson([
-			"MESSAGE"=>"Cadastro de loja atualizado"
+			"MESSAGE"=>"Cadastro de loja"
 		]);
 		
 		return $response;
