@@ -1,0 +1,21 @@
+{
+    "name": "gustavoalmansa/composer",
+    "description": "Estudo sobre PHP 7",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gustavoalmansa\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Almansa",
+            "email": "73064244+gustavosilvalmansa@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"monolog/monolog":"1.0."
+		
+	}
+}
