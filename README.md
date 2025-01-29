@@ -1,5 +1,5 @@
 # PHP - Estudos
-Estudos sobre PHP 7<br />
+Estudos sobre PHP 7 e 8<br />
 
 Conteudos contidos neste repositório:
 
