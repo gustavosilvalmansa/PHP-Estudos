@@ -1,18 +1,31 @@
 # PHP - Estudos
-Estudos sobre PHP 7 e 8<br />
 
-Conteudos contidos neste repositório:
+Repositório com estudos sobre PHP 7 e 8.
 
-º POO; <br />
-º MySQLI;<br />
-º PDO;<br />
-º DAO;<br />
-º FILES & DIRECTORIES;<br />
-º TRY CATCH;<br />
-º VIRTUAL HOST;<br />
-º SECURITY ( SQL INJECTION, CRIPTOGRAFY, Entre outras);<br />
-º SECURITY ( SQL INJECTION, CRIPTOGRAFY, Entre outras);<br />
-º PATTERNS ( FACTORY, SINGLETON, STRATEGY);<br />
-º LIBRARYS ( Slim, PHP Mailer, Twig, GD entre outras );
+## Conteúdos
 
+- **Programação Orientada a Objetos (POO)**
+- **Banco de Dados**
+  - MySQLi
+  - PDO
+  - DAO (Data Access Object)
+- **Manipulação de Arquivos e Diretórios**
+- **Tratamento de Erros**
+  - Try/Catch
+- **Configuração de Ambiente**
+  - Virtual Host
+- **Segurança**
+  - SQL Injection
+  - Criptografia
+  - Outras práticas de segurança
+- **Padrões de Projeto (Design Patterns)**
+  - Factory
+  - Singleton
+  - Strategy
+- **Bibliotecas**
+  - Slim
+  - PHPMailer
+  - Twig
+  - GD
+  - Entre outras...
 
