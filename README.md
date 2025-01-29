@@ -11,6 +11,8 @@ Conteudos contidos neste repositório:
 º TRY CATCH;<br />
 º VIRTUAL HOST;<br />
 º SECURITY ( SQL INJECTION, CRIPTOGRAFY, Entre outras);<br />
-º Bibliotecas ( Slim, PHP Mailer, Twig, GD entre outras );
+º SECURITY ( SQL INJECTION, CRIPTOGRAFY, Entre outras);<br />
+º PATTERNS ( FACTORY, SINGLETON, STRATEGY);<br />
+º LIBRARYS ( Slim, PHP Mailer, Twig, GD entre outras );
 
 
